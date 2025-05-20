@@ -3,5 +3,5 @@
 - https://postgrespro.ru/education/courses/DBA2
 
 # Настройка параметров автовакума
-https://pgconfigurator.tantorlabs.ru/
+- https://pgconfigurator.tantorlabs.ru/
 
