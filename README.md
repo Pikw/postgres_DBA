@@ -9,4 +9,4 @@
 - https://pgconfigurator.tantorlabs.ru/
 
 # Tantor
-https://dba1.ru/
+- https://dba1.ru/
