@@ -8,3 +8,5 @@
 # Конфигуратор критически важных параметров производительности PostgreSQL
 - https://pgconfigurator.tantorlabs.ru/
 
+# Tantor
+https://dba1.ru/
